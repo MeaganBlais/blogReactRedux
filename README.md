@@ -32,6 +32,7 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 ```
 ## Screenshots
 
-  -![1]()
-  -![2]()
-  -![3]()
+  -![1 - Add Post with Errors](https://github.com/MeaganBlais/blogReactRedux/blob/master/images/1-AddPost-errors.png)
+  -![2 - Add Post](https://github.com/MeaganBlais/blogReactRedux/blob/master/images/2-AddPost.png)
+  -![3 - Home](https://github.com/MeaganBlais/blogReactRedux/blob/master/images/3-home.png)
+  -![4 - View Post](https://github.com/MeaganBlais/blogReactRedux/blob/master/images/4-ViewPost.png)
